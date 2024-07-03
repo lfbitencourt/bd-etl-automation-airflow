@@ -4,7 +4,7 @@ Este repositório contém o trabalho final da disciplina de Big Data, que consis
 
 ## Propósito da Solução
 
-A solução visa automatizar o processo de coleta e processamento de dados de preços de ações. Os dados são extraídos de uma API, armazenados no Minio, formatados utilizando um contêiner Docker e, finalmente, carregados em um data warehouse para análise posterior.
+A solução visa automatizar o processo de coleta e processamento de dados de preços de ações. Os dados são extraídos de uma API, armazenados no Minio, formatados utilizando Spark e, finalmente, carregados em um data warehouse para análise posterior.
 
 ## Descrição da Arquitetura
 
